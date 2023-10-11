@@ -16,9 +16,9 @@ class LinearSearchUsingFucntion {
 		LinearSearchUsingFucntion o=new LinearSearchUsingFucntion();
 		boolean p=o.search(a,5,key);
 		if(p)
-			System.out.println("true");
+			System.out.println("Present");
 		else
-			System.out.println("false");
+			System.out.println("Absent");
 	}
 
 }
